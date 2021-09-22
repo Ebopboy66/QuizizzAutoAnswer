@@ -1,2 +1,3 @@
 # Quizizz Auto Answer
-Go to 
+
+I will make video instructions and post it below!
